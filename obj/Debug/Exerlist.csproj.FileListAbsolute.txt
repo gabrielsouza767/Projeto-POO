@@ -1,0 +1,7 @@
+D:\MediaPOO\MediaPOO\Exerlist\bin\Debug\Exerlist.exe.config
+D:\MediaPOO\MediaPOO\Exerlist\bin\Debug\Exerlist.exe
+D:\MediaPOO\MediaPOO\Exerlist\bin\Debug\Exerlist.pdb
+D:\MediaPOO\MediaPOO\Exerlist\obj\Debug\Exerlist.csproj.AssemblyReference.cache
+D:\MediaPOO\MediaPOO\Exerlist\obj\Debug\Exerlist.csproj.CoreCompileInputs.cache
+D:\MediaPOO\MediaPOO\Exerlist\obj\Debug\Exerlist.exe
+D:\MediaPOO\MediaPOO\Exerlist\obj\Debug\Exerlist.pdb
